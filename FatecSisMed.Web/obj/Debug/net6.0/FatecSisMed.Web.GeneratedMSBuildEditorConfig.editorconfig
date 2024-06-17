@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FatecSisMed.Web
+build_property.RootNamespace = FatecSisMed.Web
+build_property.ProjectDir = C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Convenio/CreateConvenio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVuaW9cQ3JlYXRlQ29udmVuaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Convenio/DeleteConvenio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVuaW9cRGVsZXRlQ29udmVuaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Convenio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVuaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Convenio/UpdateConvenio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVuaW9cVXBkYXRlQ29udmVuaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Especialidade/CreateEspecialidade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZVxDcmVhdGVFc3BlY2lhbGlkYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Especialidade/DeleteEspecialidade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZVxEZWxldGVFc3BlY2lhbGlkYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Especialidade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Especialidade/UpdateEspecialidade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZVxVcGRhdGVFc3BlY2lhbGlkYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Marca/CreateMarca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcQ3JlYXRlTWFyY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Marca/DeleteMarca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcRGVsZXRlTWFyY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Marca/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Marca/UpdateMarca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcVXBkYXRlTWFyY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Medico/CreateMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXENyZWF0ZU1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Medico/DeleteMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXERlbGV0ZU1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Medico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Medico/UpdateMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXFVwZGF0ZU1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Remedio/CreateRemedio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtZWRpb1xDcmVhdGVSZW1lZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Remedio/DeleteRemedio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtZWRpb1xEZWxldGVSZW1lZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Remedio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtZWRpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Remedio/UpdateRemedio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtZWRpb1xVcGRhdGVSZW1lZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mathe/OneDrive/Área de Trabalho/Fatec/Tópicos Especiais II/FatecSisMed/FatecSisMed/FatecSisMed.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h9dsu4f1m9

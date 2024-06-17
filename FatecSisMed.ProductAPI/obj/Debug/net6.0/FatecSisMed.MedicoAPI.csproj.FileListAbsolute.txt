@@ -1,0 +1,98 @@
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.csproj.AssemblyReference.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.AssemblyInfoInputs.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.AssemblyInfo.cs
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.csproj.CoreCompileInputs.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/appsettings.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/FatecSisMed.MedicoAPI
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/FatecSisMed.MedicoAPI.deps.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/FatecSisMed.MedicoAPI.runtimeconfig.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/FatecSisMed.MedicoAPI.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/FatecSisMed.MedicoAPI.pdb
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/MySqlConnector.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets/msbuild.FatecSisMed.MedicoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.FatecSisMed.MedicoAPI.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FatecSisMed.MedicoAPI.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FatecSisMed.MedicoAPI.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/scopedcss/bundle/FatecSisMed.MedicoAPI.styles.css
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.csproj.CopyComplete
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/refint/FatecSisMed.MedicoAPI.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.pdb
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.MedicoAPI.genruntimeconfig.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/ref/FatecSisMed.MedicoAPI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.FatecSisMed.MedicoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FatecSisMed.MedicoAPI.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FatecSisMed.MedicoAPI.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FatecSisMed.MedicoAPI.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\FatecSisMed.MedicoAPI.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSis.0BB64C5E.Up2Date
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\refint\FatecSisMed.MedicoAPI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.ProductAPI\obj\Debug\net6.0\ref\FatecSisMed.MedicoAPI.dll

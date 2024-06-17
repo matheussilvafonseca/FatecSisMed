@@ -1,0 +1,88 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{3147E299-3AAE-4A1E-9D95-AC6D91F098E9}" ItemName="FatecSisMed.MedicoAPI" ConfigurationId="Default" />
+        <StartupItem ItemId="{64A5FC44-427B-4B61-BE7F-39F48826EA8C}" ItemName="FatecSisMed.Web" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/Controllers/MedicoController.cs" relfile="FatecSisMed.Web/Controllers/MedicoController.cs" line="46" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/Controllers/MedicoController.cs" relfile="FatecSisMed.Web/Controllers/MedicoController.cs" line="47" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/Services/Entities/MedicoService.cs" relfile="FatecSisMed.ProductAPI/Services/Entities/MedicoService.cs" line="35" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/Services/Entities/MedicoService.cs" relfile="FatecSisMed.ProductAPI/Services/Entities/MedicoService.cs" line="36" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/Repositories/Entities/MedicoRepository.cs" relfile="FatecSisMed.ProductAPI/Repositories/Entities/MedicoRepository.cs" line="30" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/Repositories/Entities/MedicoRepository.cs" relfile="FatecSisMed.ProductAPI/Repositories/Entities/MedicoRepository.cs" line="31" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/Controllers/MedicoController.cs" relfile="FatecSisMed.ProductAPI/Controllers/MedicoController.cs" line="41" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/Controllers/MedicoController.cs" relfile="FatecSisMed.ProductAPI/Controllers/MedicoController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/Controllers/MedicoController.cs" relfile="FatecSisMed.Web/Controllers/MedicoController.cs" line="36" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/Controllers/MedicoController.cs" relfile="FatecSisMed.Web/Controllers/MedicoController.cs" line="37" column="1" />
+      <Breakpoint file="/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/Controllers/MedicoController.cs" relfile="FatecSisMed.Web/Controllers/MedicoController.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Web.FatecSisMed.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API.FatecSisMed.MedicoAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FatecSisMed.Web/Views/Convenio/DeleteConvenio.cshtml">
+    <Files>
+      <File FileName="FatecSisMed.Web/Controllers/MedicoController.cs" Line="81" Column="1" />
+      <File FileName="FatecSisMed.Web/Views/Medico/CreateMedico.cshtml" Line="65" Column="40" />
+      <File FileName="FatecSisMed.ProductAPI/Services/Entities/MedicoService.cs" Line="36" Column="1" />
+      <File FileName="FatecSisMed.ProductAPI/Repositories/Entities/MedicoRepository.cs" Line="31" Column="1" />
+      <File FileName="FatecSisMed.Web/Models/MedicoViewModel.cs" Line="1" Column="1" />
+      <File FileName="FatecSisMed.ProductAPI/Controllers/MedicoController.cs" Line="42" Column="1" />
+      <File FileName="FatecSisMed.Web/Views/Medico/UpdateMedico.cshtml" Line="1" Column="1" />
+      <File FileName="FatecSisMed.Web/Models/ConvenioViewModel.cs" Line="1" Column="1" />
+      <File FileName="FatecSisMed.Web/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="FatecSisMed.Web/Models/EspecialidadeViewModel.cs" Line="1" Column="1" />
+      <File FileName="FatecSisMed.Web/Services/Entities/MedicoService.cs" Line="1" Column="1" />
+      <File FileName="FatecSisMed.Web/Views/Medico/DeleteMedico.cshtml" Line="14" Column="18" />
+      <File FileName="FatecSisMed.Web/Views/Especialidade/DeleteEspecialidade.cshtml" Line="14" Column="18" />
+      <File FileName="FatecSisMed.Web/Views/Especialidade/CreateEspecialidade.cshtml" Line="1" Column="1" />
+      <File FileName="FatecSisMed.Web/Views/Convenio/DeleteConvenio.cshtml" Line="14" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FatecSisMed" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="FatecSisMed.MedicoAPI">
+                <Node name="Controllers" expanded="True" />
+                <Node name="DTO" expanded="True">
+                  <Node name="Entities" expanded="True" />
+                </Node>
+                <Node name="Repositories" expanded="True">
+                  <Node name="Entities" expanded="True" />
+                  <Node name="Interfaces" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True">
+                  <Node name="Entities" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Web" expanded="True">
+              <Node name="FatecSisMed.Web">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Entities" expanded="True" />
+                </Node>
+                <Node name="Views" expanded="True">
+                  <Node name="Convenio" expanded="True">
+                    <Node name="DeleteConvenio.cshtml" selected="True" />
+                  </Node>
+                  <Node name="Especialidade" expanded="True" />
+                  <Node name="Medico" expanded="True" />
+                  <Node name="Shared" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

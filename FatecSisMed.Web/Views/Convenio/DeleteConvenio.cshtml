@@ -1,0 +1,25 @@
+﻿@model FatecSisMed.Web.Models.ConvenioViewModel
+
+<h3>Deletar Convenio</h3>
+
+<div>
+
+    <div class="container">
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Nome)
+            </dt>
+            <dt class="col-sm-2">
+                @Html.DisplayFor(model => model.Nome)
+            </dt>
+
+            <form asp-action="DeleteConvenio">
+                <input type="hidden" asp-for="Id" />
+                <div class="form-group" style="padding-top: 10px">
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                    <a asp-action="Index" class="btn btn-info">Voltar a lista</a>
+                </div>
+            </form>
+        </dl>
+    </div>
+</div>

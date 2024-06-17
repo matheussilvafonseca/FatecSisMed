@@ -1,0 +1,7 @@
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.csproj.AssemblyReference.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.AssemblyInfoInputs.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.AssemblyInfo.cs
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.csproj.CoreCompileInputs.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.ProductAPI/obj/Debug/net6.0/FatecSisMed.ProductAPI.MvcApplicationPartsAssemblyInfo.cache

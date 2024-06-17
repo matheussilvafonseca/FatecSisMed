@@ -1,0 +1,55 @@
+﻿@model IEnumerable<FatecSisMed.Web.Models.MedicoViewModel>
+
+<h2>Medicos</h2>
+<hr />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                <div class="pull-left">
+                    <a asp-action="CreateMedico" class="btn btn-primary">
+                        <span title="Cadastrar Medico" class="fas fa-plus"></span> Novo Médico
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container text-center">
+
+    <br />
+    <div class="panel panel-default">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th>
+                        Options
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td align="center">
+                            <a asp-action="UpdateMedico" asp-route-id="@item.Id" title="Edit" class="btn btn-warning">
+                                <span class="fas fa-edit"></span>
+                            </a>
+                            <a asp-action="DeleteMedico" asp-route-id="@item.Id" title="Delete" class="btn btn-danger">
+                                <span class="fas fa-trash-alt"></span>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

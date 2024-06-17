@@ -1,0 +1,43 @@
+﻿@model FatecSisMed.Web.Models.RemedioViewModel
+
+<h2>Cadastrar Remedio</h2>
+
+<form asp-action="CreateRemedio">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="Nome" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Nome" class="form-control" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="Preco" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Preco" class="form-control" />
+                    <span asp-validation-for="Preco" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="MarcaId" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                <select asp-for="MarcaId" class="form-control" asp-items="@ViewBag.MarcaId"> </select>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar a lista</a>
+            </div>
+        </div>
+    </div>
+</form>

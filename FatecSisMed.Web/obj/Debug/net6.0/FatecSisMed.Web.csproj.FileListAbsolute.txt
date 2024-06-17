@@ -1,0 +1,61 @@
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/appsettings.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/FatecSisMed.Web.staticwebassets.runtime.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/FatecSisMed.Web
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/FatecSisMed.Web.deps.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/FatecSisMed.Web.runtimeconfig.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/FatecSisMed.Web.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/bin/Debug/net6.0/FatecSisMed.Web.pdb
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.csproj.AssemblyReference.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.AssemblyInfoInputs.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.AssemblyInfo.cs
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.csproj.CoreCompileInputs.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.RazorAssemblyInfo.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.RazorAssemblyInfo.cs
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets/msbuild.FatecSisMed.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.FatecSisMed.Web.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FatecSisMed.Web.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FatecSisMed.Web.props
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/scopedcss/bundle/FatecSisMed.Web.styles.css
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/scopedcss/projectbundle/FatecSisMed.Web.bundle.scp.css
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/refint/FatecSisMed.Web.dll
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.pdb
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/FatecSisMed.Web.genruntimeconfig.cache
+/Users/emersonmouco/Documents/Fatec/FatecSisMed/FatecSisMed/FatecSisMed.Web/obj/Debug/net6.0/ref/FatecSisMed.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\FatecSisMed.Web.staticwebassets.runtime.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\FatecSisMed.Web.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\FatecSisMed.Web.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\FatecSisMed.Web.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\FatecSisMed.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\bin\Debug\net6.0\FatecSisMed.Web.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets\msbuild.FatecSisMed.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.FatecSisMed.Web.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FatecSisMed.Web.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FatecSisMed.Web.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\scopedcss\bundle\FatecSisMed.Web.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\scopedcss\projectbundle\FatecSisMed.Web.bundle.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\refint\FatecSisMed.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\FatecSisMed.Web.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Fatec\Tópicos Especiais II\FatecSisMed\FatecSisMed\FatecSisMed.Web\obj\Debug\net6.0\ref\FatecSisMed.Web.dll

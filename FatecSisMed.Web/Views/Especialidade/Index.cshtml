@@ -1,0 +1,55 @@
+﻿@model IEnumerable<FatecSisMed.Web.Models.EspecialidadeViewModel>
+
+<h2>Especialidades</h2>
+<hr />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                <div class="pull-left">
+                    <a asp-action="CreateEspecialidade" class="btn btn-primary">
+                        <span title="Create New" class="fas fa-plus"></span> Cadastrar Especialidade
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container text-center">
+
+    <br />
+    <div class="panel panel-default">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th>
+                        Options
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td align="center">
+                            <a asp-action="UpdateEspecialidade" asp-route-id="@item.Id" title="Edit" class="btn btn-warning">
+                                <span class="fas fa-edit"></span>
+                            </a>
+                            <a asp-action="DeleteEspecialidade" asp-route-id="@item.Id" title="Delete" class="btn btn-danger">
+                                <span class="fas fa-trash-alt"></span>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

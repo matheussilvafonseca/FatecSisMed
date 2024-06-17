@@ -1,0 +1,78 @@
+﻿@model FatecSisMed.Web.Models.MedicoViewModel
+
+<h2>Alterar Medico</h2>
+
+<form asp-action="UpdateMedico">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col-6">
+            <div class="form-group">
+                <input type="hidden" asp-for="Id" />
+                <label asp-for="Nome" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Nome" class="form-control" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="CRM" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="CRM" class="form-control" />
+                    <span asp-validation-for="CRM" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="Email" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="Telefone" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Telefone" class="form-control" />
+                    <span asp-validation-for="Telefone" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="Endereco" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Endereco" class="form-control" />
+                    <span asp-validation-for="Endereco" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="EspecialidadeId" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <select asp-for="EspecialidadeId" class="form-control" asp-items="@ViewBag.EspecialidadeId"> </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="ConvenioId" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <select asp-for="ConvenioId" class="form-control" asp-items="@ViewBag.ConvenioId"> </select>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Alterar" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar a lista</a>
+            </div>
+        </div>
+    </div>
+</form>

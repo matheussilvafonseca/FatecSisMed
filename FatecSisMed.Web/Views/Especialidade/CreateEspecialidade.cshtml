@@ -1,0 +1,25 @@
+﻿@model FatecSisMed.Web.Models.EspecialidadeViewModel
+
+<h2>Cadastrar Especialidade</h2>
+
+<form asp-action="CreateEspecialidade">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col-6">
+            <div class="form-group">
+                <label asp-for="Nome" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Nome" class="form-control" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar a lista</a>
+            </div>
+        </div>
+    </div>
+</form>
